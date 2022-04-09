@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+
+}
+#about{
+    padding: 2rem 1rem;
+}
+
+#project {
+    padding: 2rem 1rem;
+    background-color: rgb(59, 59, 59);
+}
